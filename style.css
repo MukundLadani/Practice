@@ -1,0 +1,19 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body h1,h2
+{
+    color: blueviolet;
+}
+
+p
+{
+    color: brown;
+}
+
+#pay:hover
+{
+    color: rgb(228, 20, 13);
+    background-color: chartreuse;
+}
